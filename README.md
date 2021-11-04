@@ -11,5 +11,3 @@
 #### Autor:✒️
 
 - **Tacusi Larota Jhon Edwin** - _GitHub Account_ - [jhontacusi](https://github.com/jhontacusi)
-
-##GO
